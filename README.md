@@ -1,2 +1,2 @@
-# PluginTemplate
-A template of TShock plugin
+# ChainKnifeHook
+Original idea by Terraria.by's dev team.
